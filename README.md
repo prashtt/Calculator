@@ -1,28 +1,49 @@
-# Calculator
+# Calculator 🔢
 
-A simple web-based calculator built using HTML, CSS, and JavaScript.
+A simple and responsive web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
 
-## Features
+## 🚀 Live Demo
 
-- Basic arithmetic operations: addition, subtraction, multiplication, division
-- User-friendly interface
-- Responsive design
+Try the calculator here: [https://calculator-phi-snowy-90.vercel.app](https://calculator-phi-snowy-90.vercel.app)
 
-## Installation
+## 📋 Features
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/prashtt/Calculator.git
-    ```
+- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
+- Clean and minimal UI
+- Fully responsive on all screen sizes
+- Keyboard input support *(optional if implemented)*
 
-2. Open `index.html` in your browser.
+## 📁 Project Structure
 
-## Usage
+```
+📦 Calculator
+├── index.html
+├── style.css
+└── script.js
+```
 
-1. Open `index.html` in your browser.
-2. Use the calculator's buttons to perform arithmetic calculations.
+## 🛠️ Installation
 
-## License
+To run it locally:
 
-This project is open-source and available under the [MIT License](LICENSE).
+```bash
+git clone https://github.com/prashtt/Calculator.git
+cd Calculator
+open index.html  # or just double click it
+```
+
+No build step required — it's 100% static.
+
+## 📷 Screenshot
+
+![Calculator UI](screenshot.png) <!-- Optional: Add a real screenshot or remove this line -->
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ by [@prashtt](https://github.com/prashtt)
+
 
